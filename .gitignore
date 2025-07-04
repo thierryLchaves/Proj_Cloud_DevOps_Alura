@@ -1,7 +1,6 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.pyc
+# Ignorar o ambiente virtual
+/venv/
 
-# Virtual environment
-.venv
-venv/
+# Ignorar o cache do Python
+/__pycache__/
+*.pyc
